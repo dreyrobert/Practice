@@ -72,7 +72,7 @@ header ul li a:hover {
     }
 
     .navbar_menu.active {
-        background: #000;
+        background: #D8ECED;
         top: 100%;
         opacity: 1;
         transition: all 0.5s ease;
